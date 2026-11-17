@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, I'm John Aaron J 👋</h1>
+<h1 align="center">Hi, I'm John Aaron J </h1>
 
 <h3 align="center">
   Robotics & Artificial Intelligence Engineering Student
@@ -15,22 +15,22 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 I'm a Robotics and Artificial Intelligence engineering student passionate about building intelligent autonomous systems and exploring the future of robotics.
 
 My primary interests lie in robotics software development, simulation-driven robotics, humanoid robotics, and swarm intelligence.
 
-- 🎓 Pursuing B.E. in Robotics and Artificial Intelligence.
-- 🤖 Interested in Humanoid and Swarm Robotics.
-- 🧠 Exploring Physical AI and Autonomous Systems.
-- 🐧 Working with Linux and exploring ROS 2.
-- 🔬 Aspiring Robotics R&D Engineer.
-- 🌏 Long-term goal: Contribute to advanced robotics research in Japan.
+-  Pursuing B.E. in Robotics and Artificial Intelligence.
+-  Interested in Humanoid and Swarm Robotics.
+-  Exploring Physical AI and Autonomous Systems.
+-  Working with Linux and exploring ROS 2.
+-  Aspiring Robotics R&D Engineer.
+-  Long-term goal: Contribute to advanced robotics research.
 
 ---
 
-## 🎯 Research & Technical Interests
+##  Research & Technical Interests
 
 - Humanoid Robotics
 - Swarm Robotics and Multi-Agent Systems
@@ -43,7 +43,7 @@ My primary interests lie in robotics software development, simulation-driven rob
 
 ---
 
-## 🛠️ Technologies & Tools
+##  Technologies & Tools
 
 **Programming Languages**
 
@@ -67,7 +67,7 @@ ESP32 | STM32 | KiCad
 
 ---
 
-## 🚀 Current Learning Journey
+##  Current Learning Journey
 
 - Strengthening Python and C++ programming.
 - Learning ROS 2 and robotics middleware.
@@ -78,13 +78,13 @@ ESP32 | STM32 | KiCad
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
 My engineering projects and experiments will be documented here as they develop.
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 - LinkedIn: Add your LinkedIn profile URL here.
 - GitHub: https://github.com/johnaaron10-jesu
